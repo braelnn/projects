@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">try</string>
+    <string name="a_desc">Wildlife is a beautiful habitat that makes a country look like real home</string>
+    <string name="b_desc">Recreation is made of relaxation scenes and very productive exercise </string>
+    <string name="c_desc">Mountain climbing ..enjoy with friends and leave a five star review</string>
+    <string name="type">
+        <list>GamePark</list>
+    </string>
+
+
+</resources>
